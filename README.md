@@ -1,8 +1,5 @@
 [![card](https://github-readme-stats.vercel.app/api?username=xpcosmos&theme=dark)](https://github.com/xpcosmos/)
 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 <p align="left"> 
 Entusiasta por tecnologia e em constante fase de apredizado. Estudante de ciência de dados e engenharia de produção pela Universidade federal rural da amazônia
 </p>
