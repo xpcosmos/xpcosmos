@@ -1,5 +1,3 @@
-[![card](https://github-readme-stats.vercel.app/api?username=xpcosmos&theme=dark)](https://github.com/xpcosmos/)
-
 <p align="left"> 
 Entusiasta por tecnologia e em constante fase de apredizado. Estudante de ciência de dados e engenharia de produção pela Universidade federal rural da amazônia
 </p>
@@ -30,3 +28,4 @@ Entusiasta por tecnologia e em constante fase de apredizado. Estudante de ciênc
 
 </p>  
 
+[![card](https://github-readme-stats.vercel.app/api?username=xpcosmos&theme=dark)](https://github.com/xpcosmos/)
