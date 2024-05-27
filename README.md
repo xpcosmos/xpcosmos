@@ -47,9 +47,5 @@
 
 </p>  
 
-[![card](https://github-readme-stats.vercel.app/api?username=xpcosmos&theme=dark)](https://github.com/xpcosmos/)
-
-[Acompanhe minha jornada de estudos!](https://cursos.alura.com.br/vitrinedev/MIKEIAS-D-S-O)
-
 
 
